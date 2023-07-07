@@ -1,6 +1,8 @@
 package myapp;
 
-public class Cat {
+import java.util.Date;
+
+public class Cat extends Date {
     private String name;
     private int age;
 
