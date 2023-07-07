@@ -24,7 +24,7 @@ public class Cat implements Serializable {
         this.age = age;
     }
 
-    public void meow(int n){
+    public void meow(float n){
         return ;
     }
 }
